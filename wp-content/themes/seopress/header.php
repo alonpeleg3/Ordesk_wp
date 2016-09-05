@@ -11,11 +11,11 @@
 <?php } ?>
 <!-- Loader icon Ends -->
 
-<?php get_template_part( 'template-parts/header', 'topbar' ); ?>
+<!-- <?php get_template_part( 'template-parts/header', 'topbar' ); ?>
 
 <?php get_template_part( 'template-parts/header', 'main' ); ?>
 
-<?php get_template_part( 'template-parts/header', 'menu' ); ?>
+<?php get_template_part( 'template-parts/header', 'menu' ); ?> -->
 
 <?php get_template_part( 'template-parts/header', 'slider' ); ?>
 
